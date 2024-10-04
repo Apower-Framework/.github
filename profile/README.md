@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/mzZKdJY/Untitled-design.png" alt="Logo">
+  <img src="https://i.ibb.co/mzZKdJY/Untitled-design.png" width="100%" alt="Logo">
 </p>
 
 ## 👋 About The Organisation
